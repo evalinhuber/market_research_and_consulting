@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Eva Linhuber | Market Research & Consulting</title>
+    <meta name="description" content="Eva Linhuber - Qualitative und quantitative Marktforschung, Beratung und Projektunterstützung.">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">EVA LINHUBER</div>
+
+            <ul class="nav-links">
+                <li><a href="#about">Über mich</a></li>
+                <li><a href="#services">Angebot</a></li>
+                <li><a href="#expertise">Branchenexpertise</a></li>
+                <li><a href="#references">Referenzen</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+                <li><a href="en.html">EN</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- HERO -->
+
+        <section class="hero">
+
+            <div class="hero-image">
+                <img src="images/eva.jpg" alt="Eva Linhuber">
+            </div>
+
+            <div class="hero-content">
+                <h1>EVA LINHUBER</h1>
+
+                <p class="subtitle">
+                    Market Research & Consulting
+                </p>
+
+                <p class="claim">
+                    Hier kommt dein Claim.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="mailto:deine@email.de" class="button">
+                        E-Mail
+                    </a>
+
+                    <a href="#" class="button button-secondary">
+                        LinkedIn
+                    </a>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- ABOUT -->
+
+        <section id="about" class="content-section">
+
+            <h2>ÜBER MICH</h2>
+
+            <div class="content-container">
+                <p>
+                    Platzhaltertext.
+                </p>
+
+                <p>
+                    Platzhaltertext.
+                </p>
+            </div>
+
+        </section>
+
+        <!-- SERVICES -->
+
+        <section id="services" class="content-section">
+
+            <h2>ANGEBOT</h2>
+
+            <div class="card-grid">
+
+                <article class="card">
+                    <h3>Qualitative Methoden</h3>
+                    <p>Platzhaltertext.</p>
+                </article>
+
+                <article class="card">
+                    <h3>Quantitative Methoden</h3>
+                    <p>Platzhaltertext.</p>
+                </article>
+
+                <article class="card">
+                    <h3>Projektunterstützung</h3>
+                    <p>Platzhaltertext.</p>
+                </article>
+
+                <article class="card">
+                    <h3>Beratung</h3>
+                    <p>Platzhaltertext.</p>
+                </article>
+
+            </div>
+
+        </section>
+
+        <!-- EXPERTISE -->
+
+        <section id="expertise" class="content-section">
+
+            <h2>BRANCHENEXPERTISE</h2>
+
+            <div class="card-grid">
+
+                <article class="card">
+                    <h3>Consumer</h3>
+                </article>
+
+                <article class="card">
+                    <h3>Handel</h3>
+                </article>
+
+                <article class="card">
+                    <h3>Healthcare</h3>
+                </article>
+
+                <article class="card">
+                    <h3>B2B</h3>
+                </article>
+
+            </div>
+
+        </section>
+
+        <!-- REFERENCES -->
+
+        <section id="references" class="content-section">
+
+            <h2>VERÖFFENTLICHUNGEN & REFERENZEN</h2>
+
+            <div class="reference-buttons">
+
+                <a href="#" class="button">
+                    Referenz 1
+                </a>
+
+                <a href="#" class="button">
+                    Referenz 2
+                </a>
+
+                <a href="#" class="button">
+                    Referenz 3
+                </a>
+
+                <a href="#" class="button">
+                    Referenz 4
+                </a>
+
+            </div>
+
+        </section>
+
+        <!-- CONTACT -->
+
+        <section id="contact" class="content-section">
+
+            <h2>KONTAKT</h2>
+
+            <div class="content-container">
+
+                <p>
+                    E-Mail: deine@email.de
+                </p>
+
+                <p>
+                    LinkedIn: Link folgt
+                </p>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer>
+
+        <p>
+            © 2026 Eva Linhuber
+        </p>
+
+        <div class="footer-links">
+            <a href="impressum.html">Impressum</a>
+            <a href="datenschutz.html">Datenschutz</a>
+        </div>
+
+    </footer>
+
+</body>
+</html>
