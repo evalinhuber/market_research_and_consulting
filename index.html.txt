@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Eva Linhuber | Market Research & Consulting</title>
-    <meta name="description" content="Eva Linhuber - Qualitative und quantitative Marktforschung, Beratung und Projektunterstützung.">
+    <meta name="description" content="Eva Linhuber - Qualitative und quantitative Marktforschung, Beratung und Freelancing.">
 
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -45,7 +45,7 @@
                 </p>
 
                 <p class="claim">
-                    Hier kommt dein Claim.
+                    Deine Partnerin für Qual & Quant. Full-Service oder so flexibel wie du es brauchst
                 </p>
 
                 <div class="hero-buttons">
